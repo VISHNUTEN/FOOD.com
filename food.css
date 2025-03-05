@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ii {
+    color: #F4A460;
+}
+
+.pp {
+    margin-top: 150px;
+}
+
+.oo {
+    margin-top: 150px;
+    font-weight: bold;
+    font-family: Monoton;
+    font-size: 70px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://source.unsplash.com/1600x900/?protein,healthy-food') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+/* Login Box */
+.login-container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+}
+
+/* Form Fields */
+.form-group {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button */
+
+
+
+
+/* Links */
+.forgot-password {
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+a {
+    color: #f780C3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.background1 {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+.head1 {
+    font-weight: bold;
+    font-family: Sans-Serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav_p {
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.background {
+    background-color: #DC3545;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    background-image: url('https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg');
+}
+
+
+
+.card {
+
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    background-color: #DEB887;
+
+}
+
+.head {
+    font-weight: bold;
+    font-family: Segoe UI;
+    font-size: 60px;
+    color: #CD853F;
+
+}
+
+.para {
+    font-size: 30px;
+    font-family: Caveat;
+    color: rgb(0, 0, 0);
+
+}
+
+
+
+
+
+
+.head3 {
+    font-weight: bold;
+    font-family: Comic Sans MS;
+
+    font-size: 20px;
+    color: #CD853F;
+
+}
+
+
+.head5 {
+    font-weight: bold;
+    font-family: Sans;
+
+    font-size: 40px;
+    color: Black;
+
+}
+
+
+.head6 {
+    font-weight: bold;
+    font-family: Caveat;
+
+    font-size: 40px;
+    color: #000000;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.menu {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f780c3;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://images.pexels.com/photos/135755/pexels-photo-135755.jpeg");
+    background-size: cover;
+}
+
+.section-title {
+    font-size: 40px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-style: solid;
+    font-family: white;
+    font-weight: bold;
+}
+
+.menu-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menu-item {
+
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 280px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.menu-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.menu-item h3 {
+    margin: 10px 0;
+    color: #444;
+}
+
+.menu-item p {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.price {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #e63946;
+    margin-top: 10px;
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+}
+
+
+
+
+.container2 {
+    background-color: #f780c3;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 30px;
+    border-radius: 10px;
+
+    background-image: url("https://images.pexels.com/photos/9432955/pexels-photo-9432955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+
+}
+
+
+
+
+
+
+
+
+
+.payment-container {
+    background-color: #f780c3;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 30px;
+    border-radius: 10px;
+
+    background-image: url('https://images.pexels.com/photos/5650023/pexels-photo-5650023.jpeg');
+    text-align: center;
+}
+
+/* Payment Options */
+.payment-options {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.payment-options label {
+    font-size: 1rem;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Form Styling */
+.payment-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group {
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-row .form-group {
+    width: 48%;
+}
